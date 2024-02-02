@@ -1,4 +1,4 @@
-   public void logowanie() {
+ public void logowanie() {
         System.out.println("Podaj nazwę użytkownika");
         System.out.println("Podaj prawdiłowe hasło");
         System.out.println("Kliknij na przycisk zaloguj");
@@ -14,4 +14,7 @@
         System.out.println("Podaj nazwę użytkownika Microsoft");
         System.out.println("Podaj prawdiłowe hasło");
         System.out.println("Kliknij na przycisk zaloguj");
+    }
+   public void przypomnijHaslo() {
+        System.out.println("Kliknij na przycisk przypomnij hasło"); 
     }
